@@ -3,10 +3,10 @@ Magnification-Arbitrary Generative Adversarial Network for Image Super-Resolutio
 
 Our code is built for google colab.
 
-#Requirements
+# Requirements
 
 Python 3
 
-#Install instruction
+# Install instruction
 
 asdf
