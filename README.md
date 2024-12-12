@@ -26,9 +26,13 @@ git clone https://github.com/gs18050/MAGNet.git
 
 2. Upload the project to Google drive.
 
-3. Edit the drive_root in the 4th cell to your own drive path.
+3. Download the DIV2K dataset from [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/).
 
-4. Run the MAGNet.ipynb code.
+4. Put the training dataset into dataset/train and validation set to dataset/valid.
+
+5. Edit the drive_root in the 4th cell to your own drive path.
+
+6. Run the MAGNet.ipynb code.
 
 # Credit
 
