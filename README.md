@@ -1,6 +1,7 @@
 # MAGNet
 Magnification-Arbitrary Generative Adversarial Network for Image Super-Resolution
 
+Our code is built for Google colab.
 
 # Requirements
 
@@ -15,17 +16,19 @@ Magnification-Arbitrary Generative Adversarial Network for Image Super-Resolutio
 * tqdm
 
 
-# Install instruction
+# Installation instruction
 
 1. Download the code
 
 ```
 git clone https://github.com/gs18050/MAGNet.git
-cd MAGNet
 ```
 
-2. 
+2. Upload the project to Google drive.
 
+3. Edit the drive_root in the 4th cell to your own drive path.
+
+4. Run the MAGNet.ipynb code.
 
 # Credit
 
