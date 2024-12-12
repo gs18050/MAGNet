@@ -1,6 +1,7 @@
 # MAGNet
 Magnification-Arbitrary Generative Adversarial Network for Image Super-Resolution
 
+
 # Requirements
 
 * Python 3.10
@@ -24,3 +25,14 @@ cd MAGNet
 ```
 
 2. 
+
+
+# Credit
+
+1. https://github.com/xinntao/ESRGAN
+
+2. https://github.com/XPixelGroup/BasicSR
+
+3. https://github.com/XuecaiHu/Meta-SR-Pytorch
+
+4. https://github.com/Lornatang/MetaSR-PyTorch
