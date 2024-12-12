@@ -34,10 +34,10 @@ git clone https://github.com/gs18050/MAGNet.git
 
 # Credit
 
-1. https://github.com/xinntao/ESRGAN
+1. ESRGAN: https://github.com/xinntao/ESRGAN, https://github.com/XPixelGroup/BasicSR
 
-2. https://github.com/XPixelGroup/BasicSR
+2. Meta-SR: https://github.com/XuecaiHu/Meta-SR-Pytorch, https://github.com/Lornatang/MetaSR-PyTorch
 
-3. https://github.com/XuecaiHu/Meta-SR-Pytorch
+3. Set5: https://people.rennes.inria.fr/Aline.Roumy/results/SR_BMVC12.html
 
-4. https://github.com/Lornatang/MetaSR-PyTorch
+4. Set14: https://github.com/jbhuang0604/SelfExSR
