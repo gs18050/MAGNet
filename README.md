@@ -1,8 +1,6 @@
 # MAGNet
 Magnification-Arbitrary Generative Adversarial Network for Image Super-Resolution
 
-Our code is built for google colab.
-
 # Requirements
 
 * Python 3.10
@@ -24,3 +22,5 @@ Our code is built for google colab.
 git clone https://github.com/gs18050/MAGNet.git
 cd MAGNet
 ```
+
+2. 
