@@ -32,7 +32,7 @@ git clone https://github.com/gs18050/MAGNet.git
 
 6. Run the MAGNet.ipynb code.
 
-# Credit
+# References
 
 1. ESRGAN: https://github.com/xinntao/ESRGAN, https://github.com/XPixelGroup/BasicSR
 
