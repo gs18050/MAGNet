@@ -18,4 +18,9 @@ Our code is built for google colab.
 
 # Install instruction
 
-asdf
+1. Download the code
+
+'''
+git clone https://github.com/gs18050/MAGNet.git
+cd MAGNet
+'''
